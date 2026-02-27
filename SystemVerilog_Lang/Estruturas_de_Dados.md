@@ -25,7 +25,7 @@ da maior variável.
 
 • *Usado quando você tem um registrador ou barramento que pode carregar tipos <br>
 diferentes de informação dependendo do modo de operação do seu processador, <br>
-mas nunca os dois ao mesmo tempo
+mas nunca os dois ao mesmo tempo*
 
 
 
