@@ -7,3 +7,5 @@
    no mesmo fio, ou registradores não inicializados.
 - Z (Alta Impedância) = Fio flutuando, fisicamente desconectado
 
+---
+### Logic:
