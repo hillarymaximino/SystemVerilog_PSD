@@ -1,6 +1,6 @@
 # Funções
 
-### Funções vs Tarefas
+### Funções
 - Uma função não pode consumir tempo, ela executa no instante zero. <br>
 Por isso não deve conter atrasos (#x), não pode esperar bordas de clock (@(posedge clk) <br>
 e não pode chamar uma task (já que a tarefa pode congelar). <br:
