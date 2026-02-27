@@ -8,4 +8,9 @@
 - Z (Alta Impedância) = Fio flutuando, fisicamente desconectado
 
 ---
-### - Logic:
+### Logic:
+⭢ Tipo de 4 estados (0, 1, X, Z). Usado para praticamente tudo no design de Hardware, <br>
+O compilador é inteligente o suficiente para inferir se um logic vai virar um fio <br>
+físico ou um flip-flop (memória), dependendo de como você escreve o bloco de código
+
+• Obs: Logic é que ele não permite múltiplos drivers (**várias fontes gravando nele ao mesmo tempo**).
