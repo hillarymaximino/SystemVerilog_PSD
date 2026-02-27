@@ -1,10 +1,7 @@
-# Conceitos Iniciais de System Verilog
+# Tipos de Dados
 
-### 1. module:
-Bloco de construção inicial para dar inicio a construção de qualquer Hardware <br>
-Ex: module Somador_1(a, b, s, c) <br>
-⭢ Cria um bloco de construção de um círcuito Somados, com paramentos (a,b,s,c)
+### Estados no Hardware
+1. Nível Lógico Alto: 1
+2. Nível Lógico Baixo: 0
+3. Desconhecido (X): Ocorre quando há múltiplos drivers forçando valores diferentes no mesmo fio, ou registradores não inicializados.
 
-*Define os sinais que entram (input) e que saem (output)* <br>
-Ex: input a, b;<br>
-	output s, c;
