@@ -8,4 +8,4 @@
 - Z (Alta Impedância) = Fio flutuando, fisicamente desconectado
 
 ---
-### *Logic:
+### - Logic:
